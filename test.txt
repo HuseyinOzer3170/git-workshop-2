@@ -1,2 +1,3 @@
 merhaba bu degisiklik new-feature-1 de yapildi
+bu ikinci satir new-feature-1 de yazdik
 
