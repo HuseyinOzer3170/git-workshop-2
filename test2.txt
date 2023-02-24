@@ -1,2 +1,4 @@
 bu satiri main branch inda yazdik
 
+bu satiri new-feature-2 de yazdik
+
